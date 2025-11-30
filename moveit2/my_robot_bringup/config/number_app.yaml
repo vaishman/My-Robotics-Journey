@@ -1,4 +1,0 @@
-/my_number_publisher:
-  ros__parameters:
-    number: 69
-    timer_period: 1.9
