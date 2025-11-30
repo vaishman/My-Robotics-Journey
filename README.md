@@ -9,6 +9,16 @@
 > **Switch to the appropriate branch** based on what you want to explore, or use `main` to see everything at once.
 
 This repository documents my learning journey in robotics, covering ROS1, ROS2, and MoveIt2. It contains various projects, examples, and implementations that demonstrate fundamental concepts and practical applications in robotic systems.
+> 💡 Wanna see robotics in action?
+> - Explore my [Robotics Portfolio](https://www.canva.com/design/DAGQu28CpJg/-Sr_3UjK4_qSJ-yfvR9bIg/edit) — screen recordings and demos of all my projects in one place.
+> - Into cool tech? Check out my [other repositories](https://github.com/vaishman) for more hands-on robotics, creative code, and experiments.
+> - Curious about my journey? Here’s my [Resume](https://drive.google.com/file/d/1PrUPqalHDoMBlO3uaFbtFYO72G7o_QZ2/view?usp=drive_link).
+> 
+> Connect with me:  
+> [2010040054ece@gmail.com](mailto:2010040054ece@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vaish-9-9-)
+
+
+
 
 ## 📋 Overview
 
