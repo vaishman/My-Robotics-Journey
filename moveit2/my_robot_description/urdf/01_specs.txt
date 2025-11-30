@@ -1,0 +1,23 @@
+Specifications for the 6-axis robotic arm:
+
+Links:
+
+- base_link (box size 0.4 0.4 0.1)
+- shoulder_link (cylinder len 0.5 radius 0.1)
+- arm_link (cylinder len 0.6 radius 0.05)
+- elbow_link (cylinder len 0.1 radius 0.05)
+- forearm_link (cylinder len 0.5 radius 0.05)
+- wrist_link (box size 0.1 0.1 0.05)
+- hand_link (box size 0.1 0.1 0.02)
+- tool_link (no visual)
+
+Joints:
+
+- joint1 (revolute, axis z, min -3.14, max 3.14)
+- joint2 (revolute, axis y, min 0, max 2.5)
+- joint3 (revolute, axis y, min 0, max 2.5)
+- joint4 (revolute, axis z, min -3.14, max 3.14)
+- joint5 (revolute, axis y, min -1.57, max 1.57)
+- joint6 (continuous, axis z)
+- hand_tool_joint (fixed)
+
